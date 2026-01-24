@@ -2,7 +2,7 @@
 
 Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parcours en **développement** et je m'oriente progressivement vers les **systèmes, réseaux et la cybersécurité**.
 
-## Intérêts
+## Appétences
 - au **fonctionnement des systèmes** (processus, threads, communication inter-processus),
 - aux **systèmes répartis** et aux architectures réseau,
 - à la **sécurité des systèmes et des applications**.
@@ -13,7 +13,7 @@ Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parco
 - Projets personnels pour consolider mes bases en systèmes et réseaux
 - Exploration de l’observation et de la supervision système
 
-## Outils et technologies
+## Outils et technologie
 - **Langages** : Java, Python, PHP C, (bases), Bash
 - **Systèmes** : Linux
 - **Réseaux** :  bases TCP/IP · sockets · multiplexage
