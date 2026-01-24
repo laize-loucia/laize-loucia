@@ -20,6 +20,3 @@ Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parco
 - **Conteneurs** : Docker
 - **Bases de données** : SQL, SPARQL, MongoDB
 - **Outils** : Git, GitHub
-
-Ce dépôt regroupe mes **projets d’apprentissage** en cours, mes expérimentations et mes travaux liés aux systèmes, aux réseaux et à la cybersécurité.
-
