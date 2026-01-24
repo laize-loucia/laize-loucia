@@ -14,7 +14,7 @@ Je suis actuellement étudiante en **licence informatique**, ancienne étudiante
 - Exploration de l’observation et de la supervision système
 
 ## Outils et technologies
-- **Langages** : Java, Python, PHP C (bases), Bash
+- **Langages** : Java, Python, PHP C, (bases), Bash
 - **Systèmes** : Linux
 - **Réseaux** :  bases TCP/IP · sockets · multiplexage
 - **Conteneurs** : Docker
