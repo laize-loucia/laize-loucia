@@ -16,6 +16,7 @@ Je suis actuellement étudiante en **licence informatique**, ancienne étudiante
 ## Outils et technologies
 - **Langages** : Java, Python, PHP C (bases), Bash
 - **Systèmes** : Linux
+- **Réseaux** :  bases TCP/IP · sockets · multiplexage
 - **Conteneurs** : Docker
 - **Bases de données** : SQL, SPARQL, MongoDB
 - **Outils** : Git, GitHub
