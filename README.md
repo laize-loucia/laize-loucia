@@ -7,14 +7,14 @@ Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parco
 - aux **systèmes répartis** et aux architectures réseau,
 - à la **sécurité des systèmes et des applications**.
 
-## Travaux
+## Projets
 - Projets pédagogiques autour des **processus**, **pipes**, **multiplexage** et **sockets**
 - Mise en pratique sous **Linux**
 - Projets personnels pour consolider mes bases en systèmes et réseaux
 - Exploration de l’observation et de la supervision système
 
 ## Outils et technologie
-- **Langages** : Java, Python, PHP C, Bash
+- **Langages** : Java, Python, PHP, C, Bash
 - **Systèmes** : Linux
 - **Réseaux** :  bases TCP/IP · sockets · multiplexage
 - **Conteneurs** : Docker
