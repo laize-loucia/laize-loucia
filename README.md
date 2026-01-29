@@ -1,6 +1,6 @@
 #
 
-Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parcours en **développement** et je m'oriente progressivement vers les **systèmes, réseaux et la cybersécurité**.
+Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parcours en **développement**. Assez curieuse, je m'intéresse à la programmation système, architectures distribuées, les systèmes ... et je m'oriente progressivement vers les **systèmes, réseaux et la cybersécurité**.
 
 ## Appétences
 - au **fonctionnement des systèmes** (processus, threads, communication inter-processus),
