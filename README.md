@@ -2,15 +2,10 @@
 
 Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parcours en **développement**. Assez curieuse, je m'intéresse à la programmation système, architectures distribuées, les systèmes ... et je m'oriente progressivement vers les **systèmes, réseaux et la cybersécurité**.
 
-## Appétences
+## Appétences et projets
 - **fonctionnement des systèmes** (processus, threads, communication inter-processus),
 - **systèmes répartis** et aux architectures réseau,
 - **sécurité des systèmes et des applications**.
-
-## Projets
-- Projets poc autour des **processus**, **pipes**, **multiplexage** et **sockets** sous **Linux**
-- Projets personnels pour consolider mes bases en systèmes et réseaux
-- Explorations aléatoire des systèmes
 
 ## Outils et technologie
 - **Langages** : Java, Python, PHP, C, Bash
