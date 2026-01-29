@@ -8,10 +8,9 @@ Je suis actuellement étudiante en **licence informatique**, j'ai suivi un parco
 - **sécurité des systèmes et des applications**.
 
 ## Projets
-- Projets pédagogiques autour des **processus**, **pipes**, **multiplexage** et **sockets**
-- Mise en pratique sous **Linux**
+- Projets poc autour des **processus**, **pipes**, **multiplexage** et **sockets** sous **Linux**
 - Projets personnels pour consolider mes bases en systèmes et réseaux
-- Exploration de l’observation et de la supervision système
+- Explorations aléatoire des systèmes
 
 ## Outils et technologie
 - **Langages** : Java, Python, PHP, C, Bash
