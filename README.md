@@ -1,4 +1,4 @@
-Actuellement étudiante en **licence informatique**, j'ai suivi un parcours en **développement**. Je m'intéresse à la programmation système, architectures distribuées... et j'étudie les **systèmes et réseaux et la cybersécurité**.
+Actuellement étudiante en **licence informatique**, j'ai suivi un parcours en **développement**. Je m'intéresse à la programmation système, architectures distribuées et j'étudie les **systèmes et réseaux et la cybersécurité**.
 
 ## Appétences et projets
 - **fonctionnement des systèmes** (processus, threads, communication inter-processus)
