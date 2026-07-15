@@ -1,5 +1,4 @@
-Je suis étudiante en **licence informatique** de part mon intérêt initial pour la programmation.  
-Progressivement, je me suis intéressée à la "programmation" système et réseaux, ainsi que la cybersécurité.
+Je suis étudiante en **licence informatique**. Mon intérêt pour la programmation m'a progrissement poussé à m'intéresser à la "programmation" système et réseaux, et la sécurité de manière générale.
 
 ### Appétences et projets
 - infrastructure et réseau
