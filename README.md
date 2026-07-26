@@ -3,7 +3,7 @@ Mon intérêt pour la programmation m'a progressivement poussé à m'intéresser
 
 Python • Linux • Réseaux • Cybersécurité
 
-# Mes Projets 
+## intérêts 
 - Outils internes, des API et des projets d’automatisation.
 - infrastructure et réseau
 - sécurité applicative (gestion des accès, authentification, structuration d’API)
